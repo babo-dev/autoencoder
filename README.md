@@ -10,3 +10,7 @@ Run this command to reconstruct image in streamlit ui
 ```bash
 streamlit run main.py
 ```
+
+![Original Image](results/images/img.png)
+
+![Reconstructed Image](results/images/img2.png)
